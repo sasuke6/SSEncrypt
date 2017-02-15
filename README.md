@@ -1,0 +1,2 @@
+# SSEncrypt
+SSEncrypt for surge
